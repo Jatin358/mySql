@@ -1,14 +1,13 @@
-## Seed code - Boilerplate for RDBMS - Assignment
+Task
+------
 
-### Assignment Instructions (Must be followed mandatorily)
-
-- *Read the given set of questions and solve them by writing queries using MySQL*
-- *Fork the above boilerplate and clone into your local machine*
-- *The Solution has to be written in keep-note.sql file*
-- *Queries should be wriiten in MySQL syntax*
-- *Do not use any IDE for generating the SQL queries. You need to write them manually*
-- *Do not give spaces at the beginning of the Query*
-- *Do not use the schema name in Queries. ex*
+ *Read the given set of questions and solve them by writing queries using MySQL*
+ *Fork the above boilerplate and clone into your local machine*
+ *The Solution has to be written in keep-note.sql file*
+ *Queries should be wriiten in MySQL syntax*
+ *Do not use any IDE for generating the SQL queries. You need to write them manually*
+ *Do not give spaces at the beginning of the Query*
+ *Do not use the schema name in Queries. ex*
 
         create table 'schemaname'.'Test'(user_id int primary key ....);
             
@@ -16,12 +15,14 @@
         
         create table Test(user_id int primary key ....);
 
-### Problem Statement
+ Problem Statement
+ ------------------
 
 Note management app (similar to Google Keep) is used to take notes, add notes into categories and set reminders for a note. Create the necessary 
 tables, relationships, triggers and add sample data into each table.
 
-### Expected Solution
+Expected Solution
+-----------------
 
 *Note: Do not add `create database/schema` query in the solution*
 
